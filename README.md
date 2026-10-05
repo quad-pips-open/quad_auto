@@ -131,11 +131,11 @@ Then, you can use WASD to translate, Q/E to rotate, and X to send a zero velocit
 ## TODOs
 - [x] Install from scratch
 - [x] Sanity check inekf kinematics
-- [ ] Tune for Go2
+- [x] Tune for Go2
 - [ ] Build proxsuite inside pixi
 - [ ] Add ANYmal
 - [ ] Single package for all quadrupeds
-- [ ] MuJoCo sim
+- [ ] IsaacSim integration
 - [ ] Add Nav2 demo
 - [ ] Add OCS2 for G1
 - [ ] Handheld controller for sim
@@ -152,17 +152,3 @@ Then, you can use WASD to translate, Q/E to rotate, and X to send a zero velocit
     <li>elevation_mapping_cupy <a href="https://github.com/leggedrobotics/elevation_mapping_cupy" target="_blank">codebase</a></li>
     <li>OCS2 <a href="https://github.com/leggedrobotics/ocs2" target="_blank">codebase</a></li>
 </ul>
-
-## <a name="Citation"></a>Citation
-If would like to cite this work, please use the following format:
-```
-@misc{asselmeier2026quadpipsperceptioninformedfootstepplanner,
-      title={QuadPiPS: A Perception-informed Footstep Planner for Quadrupeds With Semantic Affordance Prediction}, 
-      author={Max Asselmeier and Ye Zhao and Patricio A. Vela},
-      year={2026},
-      eprint={2501.00112},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2501.00112}, 
-}
-```
