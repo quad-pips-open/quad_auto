@@ -2,17 +2,16 @@
 
 <p align="center">
     <a href="https://arxiv.org/abs/2501.00112">arXiv</a> •
-    <a href="https://google.com">Website</a> •
-    <a href="#citation">Citation</a>
+    <a href="https://quadpips.github.io/">Website</a> •
+    <a href="##Citation">Citation</a>
 </p>
 
 <p>
-    <img align="center" width="375" src="./assets/stairs.gif" alt="empty"> 
-    <img align="center" width="450" src="./assets/stones.gif" alt="empty"> 
+    <img align="center" width="44.7%" src="./assets/stairs.gif" alt="empty"><img align="center" width="55.1%" src="./assets/stones.gif" alt="empty">
 </p>
 
 <p>
-    <img align="center" width="1000" src="./assets/nav.gif" alt="empty"> 
+    <img align="center" width="99.8%" src="./assets/nav.gif" alt="empty">
 </p>
 
 ## Introduction
